@@ -66,7 +66,7 @@
     padding-bottom: 50px;
   }
   .banner-text h1 {
-    font-size: 32px;
+    font-size: 14px;
     margin-bottom: 10px;
     margin-top: 5px;
   }
@@ -140,7 +140,7 @@
   .faq-img img {
     height: auto;
     -webkit-animation: none;
-            animation: none;
+    animation: none;
   }
   .faq-content h2 {
     font-size: 24px;
@@ -290,7 +290,7 @@
     height: auto;
     margin-top: 30px;
     -webkit-animation: none;
-            animation: none;
+    animation: none;
   }
   .shape-left {
     display: none;
@@ -405,7 +405,8 @@
     font-size: 30px;
     margin-right: 5px;
   }
-  .about-area .pl-0, .about-area .px-0 {
+  .about-area .pl-0,
+  .about-area .px-0 {
     padding-left: 15px !important;
   }
   .about-img-2 {
@@ -536,14 +537,14 @@
   }
   /* Home Page Two End */
   .inner-banner .inner-title {
-    padding-top: 120px;
-    padding-bottom: 60px;
+    padding-top: 100px;
+    padding-bottom: 30px;
   }
   .inner-banner .inner-title h3 {
-    font-size: 26px;
+    font-size: 14px;
   }
   .inner-banner .inner-title ul li {
-    font-size: 16px;
+    font-size: 10px;
   }
   .pagination-area {
     margin-top: 0;
@@ -907,7 +908,7 @@
   .faq-img img {
     height: auto;
     -webkit-animation: none;
-            animation: none;
+    animation: none;
   }
   .faq-content {
     margin-right: auto;
@@ -1074,7 +1075,7 @@
     height: auto;
     margin-top: 30px;
     -webkit-animation: none;
-            animation: none;
+    animation: none;
   }
   .shape-left {
     display: none;
